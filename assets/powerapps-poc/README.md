@@ -20,5 +20,5 @@ Use the `raw.githubusercontent.com` URL rather than a GitHub `/blob/` page URL s
 ## POC gates
 
 - POC-3D-01 — external GLB loads in Power Apps: PASS
-- POC-3D-02 — predefined preservation pins: PENDING
+- POC-3D-02 — predefined preservation pins bind to the GLB and can be selected: PASS (validated 2026-09-02; test selection returned `PIN 3 | LOW | PR-003`)
 - POC-3D-03 — selected pin drives AssetPlan properties panel: PENDING
